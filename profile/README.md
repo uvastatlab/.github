@@ -9,8 +9,6 @@ We help with a range of challenges, including:
 - Selecting, implementing, and intepreting statistical methods
 - Model evaluation
 - Data visualization
-- Web scraping
-- Automating data-scientific procedures
 - Debugging statistical software
 
 We also offer [free workshops](https://library.virginia.edu/data/training) and write [articles about statistics and data science](https://library.virginia.edu/data/articles).
