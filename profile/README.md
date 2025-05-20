@@ -21,6 +21,7 @@ In collaboration with graduate student fellows, we produce statistical-programmi
 We also use GitHub to host resources to help us with consultations and [StatLab articles](https://library.virginia.edu/data/articles):
 
 - [Consulting resources](https://github.com/uvastatlab/consulting_resources): A list of selected bookmarks to sites we frequently reference
+- [UVA StatLab Statistical Notes](https://uvastatlab.github.io/statistical_notes/): Reports generated for various consultations for the UVA StatLab
 - [R to Stata Cheatsheet](https://uvastatlab.github.io/R_to_Stata/): Common statistical tasks in R translated to Stata. (Mostly obsolete thanks to AI)
 - [Accessibility Checklist](https://github.com/uvastatlab/accessibility_checklist): Reference to help us develop more accessible materials
 - [GitHub Guide](https://github.com/uvastatlab/git_guide): StatLab guide to Git branching, merging, and stashing
