@@ -25,7 +25,7 @@ We also use GitHub to host resources to help us with consultations and [StatLab 
 - [R to Stata Cheatsheet](https://uvastatlab.github.io/R_to_Stata/): Common statistical tasks in R translated to Stata. (Mostly obsolete thanks to AI)
 - [Accessibility Checklist](https://github.com/uvastatlab/accessibility_checklist): Reference to help us develop more accessible materials
 - [GitHub Guide](https://github.com/uvastatlab/git_guide): StatLab guide to Git branching, merging, and stashing
-- [R install and update](https://clayford.github.io/r_install/): Installing and Updating R, RStudio and R Packages
+- [R install and update](https://uvastatlab.github.io/install_r/): Installing and Updating R, RStudio and R Packages
 - [SQLite Notes](https://clayford.github.io/sqlite_notes/): A quick reference to SQL via SQLite
 
 ---
